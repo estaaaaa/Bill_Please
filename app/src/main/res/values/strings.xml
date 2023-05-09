@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Bill Please</string>
+    <string name="amount">Amount:</string>
+    <string name="bill">Please key in the Total bill.</string>
+    <string name="num_of_pax">Num of Pax:</string>
+    <string name="pax">How many people gathered?</string>
+    <string name="no_gst">NO GST</string>
+    <string name="gst">GST</string>
+    <string name="no_svs">NO SVS</string>
+    <string name="svs">SVS</string>
+    <string name="discount">Discount(%):</string>
+    <string name="any_discounts">Any discounts?</string>
+    <string name="cash">Cash</string>
+    <string name="paynow">Paynow</string>
+    <string name="split">Split</string>
+    <string name="reset">Reset</string>
+    <string name="total_bill">Total Bill:</string>
+    <string name="each_pays">Each Pays:</string>
+    <string name="total_discount">Please key in total discount.</string>
+    <string name="phone_number">Phone Number:</string>
+    <string name="please_enter_your_phone_number">(Please key in your phone number.)</string>
+</resources>

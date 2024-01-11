@@ -120,13 +120,13 @@ public class MainActivity extends AppCompatActivity {
 
                 // Calculate total amount with GST and SVS charges
                 if (svsbtn.isChecked() && gstbtn.isChecked()) {
-                    totalAmt += totalAmt * 0.17;
+                    totalAmt += totalAmt * 0.19;
 
                 } else if (svsbtn.isChecked() && !gstbtn.isChecked()) {
                     totalAmt += totalAmt * 0.1;
 
                 } else if (!svsbtn.isChecked() && gstbtn.isChecked()) {
-                    totalAmt += totalAmt * 0.07;
+                    totalAmt += totalAmt * 0.09;
 
                 } else {
                     totalAmt += amtInput;
